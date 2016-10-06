@@ -1,0 +1,4 @@
+bin/*
+node_modules/*
+phantomjsdriver.log
+selenium-debug.log

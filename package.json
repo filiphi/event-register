@@ -1,0 +1,18 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "node_modules/.bin/nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.8",
+    "phantomjs-prebuilt": "^2.1.13",
+    "selenium-download": "^2.0.6"
+  }
+}
